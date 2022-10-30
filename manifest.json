@@ -1,0 +1,17 @@
+{
+    "name": "Empleados",
+    "short_name": "Emp",
+    "theme_color": "#ffff",
+    "background_color": "#ffff",
+    "display": "fullscreen",
+    "orientation": "portrait",
+    "scope": "./",
+    "start_url": "./",
+    "icons": [
+        {
+            "src": "./images/empleados.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ]
+}
